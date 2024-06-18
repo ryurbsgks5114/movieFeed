@@ -36,8 +36,9 @@ out/
 ### VS Code ###
 .vscode/
 
-### env ###
-*.env
+### 환경 변수 ###
+.env
+application-secrets.properties
 
 ### git ###
 .gitmessage.txt
